@@ -1,10 +1,11 @@
 package form
 
 import (
-	"fmt"
 	"reflect"
 	"strings"
 	"time"
+
+	"github.com/golite/fmt"
 )
 
 // Binder has a single method, BindForm, which binds the values in the form to

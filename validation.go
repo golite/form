@@ -5,7 +5,7 @@
 
 package form
 
-import "fmt"
+import "github.com/golite/fmt"
 
 // InputValidation is an object which has methods for validating an input. Such
 // methods always return an InputValidation and are chainable. Whenever an input

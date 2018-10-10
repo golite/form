@@ -6,8 +6,9 @@
 package form
 
 import (
-	"fmt"
 	"time"
+
+	"github.com/golite/fmt"
 
 	"honnef.co/go/js/dom"
 )
